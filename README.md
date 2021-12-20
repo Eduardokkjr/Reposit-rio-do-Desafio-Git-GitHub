@@ -10,3 +10,7 @@ Neste repositório irei guardar todas as informações e anotações sobre o Dec
 [Download Typora](https://typora.br.uptodown.com/windows/download)
 
 [Download Git](https://git-scm.com/download/win)
+
+[Download Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+
+
